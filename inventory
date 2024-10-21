@@ -1,0 +1,9 @@
+[servers]
+Server1 ansible_host=192.168.56.153 ansible_user=mark
+Server2 ansible_host=192.168.56.154 ansible_user=mark
+
+[server_centOS]
+centOS ansible_host=192.168.56.152 ansible_user=qmbnpuno 
+
+[file_server]
+fileserver ansible_host=192.168.56.149 ansible_user=mark
