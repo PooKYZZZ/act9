@@ -1,5 +1,5 @@
 ---
-- name: Install dependencies for Prometheus on Ubuntu
+- name: Install dependencies for Prometheus on Ubunt
   apt:
     name: curl
     state: present
